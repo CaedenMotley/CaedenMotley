@@ -1,4 +1,4 @@
-👋 Hello there! I'm Caeden Motley, a sophomore studying Computer Sciences at the University of Arizona (UofA). 
+👋 Hello there! I'm Caeden Motley, a senior studying Computer Sciences at the University of Arizona (UofA). 
    
 
 📚 Currently, I'm diving deep into the intricacies of machine learning, quantum information theory, and exploring the potential applications of quantum computing in various fields.
