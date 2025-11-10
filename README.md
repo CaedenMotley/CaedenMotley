@@ -6,7 +6,7 @@
 📧 You can contact me at caedenmotley@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/caeden-motley-716640270/
      I'm open to networking, mentoring, or engaging in meaningful conversations related to computer sciences.
 
-🎓 Currently seeking internships and research opportunities related to software devlopment. If you have any recommendations or suggestions, please let me know!
+🎓 Currently seeking internships and research opportunities related to machine learning. If you have any recommendations or suggestions, please let me know!
 
 
 <!---
