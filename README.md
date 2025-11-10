@@ -9,7 +9,3 @@
 🎓 Currently seeking internships and research opportunities related to machine learning. If you have any recommendations or suggestions, please let me know!
 
 
-<!---
-CaedenMotley/CaedenMotley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
